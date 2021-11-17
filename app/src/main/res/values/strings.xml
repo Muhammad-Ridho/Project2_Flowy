@@ -1,3 +1,104 @@
 <resources>
     <string name="app_name">Flowy</string>
+
+    <string-array name="MenuBunga">
+        <item>Mawar</item>
+        <item>Matahari</item>
+        <item>Tulip</item>
+        <item>Anggrek</item>
+        <item>Kembang Sepatu</item>
+        <item>Melati</item>
+        <item>Teratai</item>
+        <item>Sedap Malam</item>
+        <item>Kamboja</item>
+        <item>Adenium</item>
+        <item>Agapanthus</item>
+        <item>Ageratum</item>
+        <item>Golden Trumpet</item>
+        <item>Alyssum</item>
+        <item>Amaranth</item>
+        <item>Amarilis</item>
+        <item>Ammi</item>
+        <item>Angelonia</item>
+        <item>Snapdragon</item>
+        <item>Anthurium</item>
+        <item>Anyelir</item>
+        <item>Aster</item>
+        <item>Azela</item>
+        <item>Buddleja</item>
+        <item>Kancing</item>
+        <item>Pukul Empat</item>
+        <item>Terompet</item>
+        <item>Calendula</item>
+        <item>Camelia</item>
+        <item>Candytuft</item>
+        <item>Celosia</item>
+        <item>Cleome</item>
+        <item>Clover</item>
+        <item>Coreopsis</item>
+        <item>Cornflower</item>
+        <item>Cosmos</item>
+        <item>Dahlia</item>
+        <item>Daisy</item>
+        <item>Dianthus</item>
+        <item>Echinacea</item>
+        <item>Forget Me Not</item>
+        <item>Foxglove</item>
+        <item>Gaillardia</item>
+        <item>Gardenia</item>
+        <item>Geranium</item>
+        <item>Gloxinia</item>
+        <item>Gypsophila</item>
+        <item>Heliconia</item>
+        <item>Hoya</item>
+        <item>Hydrangea</item>
+        <item>Impatiens</item>
+        <item>Iris</item>
+        <item>Kalanchoe</item>
+        <item>Kana</item>
+        <item>Kantil / Cempaka</item>
+        <item>Krisan</item>
+        <item>Delphinium</item>
+        <item>Lantana</item>
+        <item>Lavatera</item>
+        <item>Lavender</item>
+        <item>Lily</item>
+        <item>Lobelia</item>
+        <item>Lupine</item>
+        <item>Mandevilla</item>
+        <item>Marigold</item>
+        <item>Morning Glory</item>
+        <item>Mussaenda</item>
+        <item>Nasturtium</item>
+        <item>Nemophila</item>
+        <item>Nigella</item>
+        <item>Nona Makan Sirih</item>
+        <item>Pansy</item>
+        <item>Peony</item>
+        <item>Petrea</item>
+        <item>Petunia</item>
+        <item>Phlox</item>
+        <item>Poppy</item>
+        <item>Rudbeckia</item>
+        <item>Ruellia</item>
+        <item>Salvia</item>
+        <item>Scabiosa</item>
+        <item>Soka</item>
+        <item>Statice</item>
+        <item>Stefanot</item>
+        <item>Stock</item>
+        <item>Strawflower</item>
+        <item>Sweat Pea</item>
+        <item>Tabebuia</item>
+        <item>Thunbergia</item>
+        <item>Torenia</item>
+        <item>Verbena</item>
+        <item>Vinca</item>
+        <item>Violces</item>
+        <item>Wijaya Kusuma</item>
+        <item>Yarrow</item>
+        <item>Zephyranthes</item>
+        <item>Zinnia</item>
+
+    </string-array>
 </resources>
