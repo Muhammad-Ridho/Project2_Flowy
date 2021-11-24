@@ -327,4 +327,36 @@
             Teh bunga rosella adalah minuman yang bebas kafein. Ini bisa menjadi alternatif bagi Anda yang ingin minum minuman sehat namun tidak bisa atau sedang mengurangi konsumsi kafein seperti teh dan kopi.
         </item>
     </string-array>
+    <string-array name="YouTube">
+        <item>
+            kXXUlNMJA0M
+        </item>
+        <item>
+            i9eDVXZ7Y5s
+        </item>
+        <item>
+            9YYAEFx454o
+        </item>
+        <item>
+            uS-ArHcWRlg
+        </item>
+        <item>
+            BfKILsv1qkg
+        </item>
+        <item>
+            DxfG1Dykwtg
+        </item>
+        <item>
+            Es3rIuPjOv8
+        </item>
+        <item>
+            aQbWbX6JQGQ
+        </item>
+        <item>
+            D2XuODpXOuU
+        </item>
+        <item>
+            kFlgj7NTad8
+        </item>
+    </string-array>
 </resources>
