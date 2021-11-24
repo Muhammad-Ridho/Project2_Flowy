@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Mobile_Project/Project2_Flowy/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Mobile_Project/Project2_Flowy/app/src/main/res/layout/activity_welcome_daftar_menu_bunga.xml" value="0.18" />
+        <entry key="..\:/Mobile_Project/Project2_Flowy/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Mobile_Project/Project2_Flowy/app/src/main/res/layout/activity_welcome_daftar_menu_bunga.xml" value="0.25" />
+        <entry key="..\:/Mobile_Project/Project2_Flowy/app/src/main/res/layout/menulist_layout.xml" value="0.2608695652173913" />
       </map>
     </option>
   </component>
